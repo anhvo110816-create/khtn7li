@@ -1,0 +1,8 @@
+{
+  "name": "khtn7-server",
+  "version": "1.0.0",
+  "description": "KHTN 7 - trang học sinh + trang giáo viên theo dõi trực tuyến",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
